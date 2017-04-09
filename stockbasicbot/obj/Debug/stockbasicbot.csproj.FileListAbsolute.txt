@@ -1,0 +1,42 @@
+F:\BOT\stockbasicbot\stockbasicbot\bin\Bot Application.dll.config
+F:\BOT\stockbasicbot\stockbasicbot\bin\Bot Application.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Bot Application.pdb
+F:\BOT\stockbasicbot\stockbasicbot\bin\Autofac.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Chronic.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.Bot.Builder.Autofac.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.Bot.Builder.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.Bot.Connector.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.Rest.ClientRuntime.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Newtonsoft.Json.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.Net.Http.Formatting.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.Web.Http.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.Web.Http.WebHost.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\Autofac.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.Bot.Builder.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.Bot.Builder.Autofac.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.Bot.Connector.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\Newtonsoft.Json.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.IdentityModel.Tokens.Jwt.pdb
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.Net.Http.Formatting.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.Web.Http.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\System.Web.Http.WebHost.xml
+F:\BOT\stockbasicbot\stockbasicbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\en\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\es\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+F:\BOT\stockbasicbot\stockbasicbot\obj\Debug\stockbasicbot.csprojResolveAssemblyReference.cache
+F:\BOT\stockbasicbot\stockbasicbot\obj\Debug\Bot Application.dll
+F:\BOT\stockbasicbot\stockbasicbot\obj\Debug\Bot Application.pdb
